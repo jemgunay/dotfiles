@@ -6,7 +6,7 @@ $(_user_host)${_current_dir}$(_git_prompt_info_fmt)
 
 PROMPT2='%{$fg[$CARETCOLOR]%}◀%{$reset_color%} '
 
-RPROMPT='$(_vi_status)%{$(echotc UP 1)%}$(_current_time)${_return_status}%{$(echotc DO 1)%}'
+RPROMPT='$(_vi_status)%{$(echotc UP 1)%}${_return_status}$(_current_time)%{$(echotc DO 1)%}'
 
 local _current_dir="%{$fg_bold[blue]%}%3~%{$reset_color%} "
 local _return_status="%{$fg_bold[red]%}%(?..⍉)%{$reset_color%}"
