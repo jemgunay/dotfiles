@@ -26,9 +26,9 @@ terminal > edit > text > font size 10
 
 ## Apps
 
-Goland (JetBrains Toolbox)  
-* Disable code folding  
-* Refine import ordering settings  
-* Material & Material Icons  
-
-VSCode  
+* Goland (JetBrains Toolbox)  
+  * Disable code folding  
+  * Refine import ordering settings  
+  * Plugins: Material Theme UI, Material Theme Icons, GitToolBox  
+* VSCode  
+* Update git  
