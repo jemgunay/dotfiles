@@ -31,4 +31,5 @@ terminal > edit > text > font size 10
   * Refine import ordering settings  
   * Plugins: Material Theme UI, Material Theme Icons, GitToolBox  
 * VSCode  
-* Update git  
+* Update git 
+* Install jq: https://stedolan.github.io/jq/
