@@ -24,8 +24,10 @@ set terminal colour schemes: https://github.com/Mayccoll/Gogh
 terminal > edit > colors > set background transparency  
 terminal > edit > text > font size 10  
 
-## Apps
+## Apps/Tools
 
+* Go: https://go.dev/doc/install
+* golint (add to PATH): https://github.com/golang/lint
 * Goland (JetBrains Toolbox)  
   * Disable code folding  
   * Refine import ordering settings  
