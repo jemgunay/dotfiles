@@ -26,8 +26,8 @@ terminal > edit > text > font size 10
 
 ## Apps/Tools
 
-* Go: https://go.dev/doc/install
-* golint (add to PATH): https://github.com/golang/lint
+* Go: https://go.dev/doc/install + add `~/go/bin` to `PATH` var
+* staticcheck: https://staticcheck.io/docs/getting-started/
 * Goland (JetBrains Toolbox)  
   * Disable code folding  
   * Refine import ordering settings  
