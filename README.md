@@ -12,6 +12,7 @@ oh-my-zsh - set your theme with this
 https://github.com/zsh-users/zsh-syntax-highlighting  
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md  
 
+install tmux
 set .tmux.conf to use zsh instead of bash  
 chmod 755 ~/.tmux  
 tmux plugin manager (TPM)  
