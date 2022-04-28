@@ -24,6 +24,10 @@ tmux-sensible (standardised tmux enhancements)
 set terminal colour schemes: https://github.com/Mayccoll/Gogh  
 terminal > edit > colors > set background transparency  
 terminal > edit > text > font size 10  
+ 
+### MacOS
+
+Enable backspace word deletion: https://stackoverflow.com/questions/327664/mac-os-x-terminal-map-optiondelete-to-backward-delete-word
 
 ## Apps/Tools
 
