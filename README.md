@@ -27,8 +27,9 @@ terminal > edit > text > font size 10
  
 ### MacOS
 
-Enable backspace word deletion: https://stackoverflow.com/questions/327664/mac-os-x-terminal-map-optiondelete-to-backward-delete-word
-
+* Enable backspace word deletion: https://stackoverflow.com/questions/327664/mac-os-x-terminal-map-optiondelete-to-backward-delete-word
+* Preferences -> Keyboard -> Key Repeat + Delay Until Repeat (max out to the right) 
+ 
 ## Apps/Tools
 
 * Go: https://go.dev/doc/install + add `~/go/bin` to `PATH` var
