@@ -4,7 +4,7 @@
 
 git config --global credential.helper store  
 git config --global user.email "<email>"  
-git config --global user.name "Jemil Gunay"  
+git config --global user.name "Jem Gunay"  
 git config --global color.ui auto  
 
 zsh (yum)  
@@ -38,6 +38,7 @@ terminal > edit > text > font size 10
   * Disable code folding  
   * Refine import ordering settings  
   * Plugins: Material Theme UI, Material Theme Icons, GitToolBox  
-* VSCode  
+* VSCode
 * Update git 
 * Install jq: https://stedolan.github.io/jq/
+* Obsidian
