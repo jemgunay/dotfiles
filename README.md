@@ -12,7 +12,7 @@ oh-my-zsh - set your theme with this
 https://github.com/zsh-users/zsh-syntax-highlighting  
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md  
 
-install tmux  
+Install tmux  
 set .tmux.conf to use zsh instead of bash  
 chmod 755 ~/.tmux  
 tmux plugin manager (TPM)  
@@ -33,12 +33,17 @@ terminal > edit > text > font size 10
 ## Apps/Tools
 
 * Go: https://go.dev/doc/install + add `~/go/bin` to `PATH` var
-* staticcheck: https://staticcheck.io/docs/getting-started/
-* Goland (JetBrains Toolbox)  
+* `staticcheck`: https://staticcheck.io/docs/getting-started/
+* Goland/JetBrains Toolbox
   * Disable code folding  
   * Refine import ordering settings  
   * Plugins: Material Theme UI, Material Theme Icons, GitToolBox  
 * VSCode
-* Update git 
-* Install jq: https://stedolan.github.io/jq/
+* Update `git`
+* Install jq: `brew install jq`
 * Obsidian
+* Docker Desktop
+* `kubectl` & `k9s`
+* `gcloud` & `aws` CLIs
+* `tree`
+* `htop`
