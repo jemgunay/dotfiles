@@ -49,3 +49,4 @@ terminal > edit > text > font size 10
 * `gcloud` & `aws` CLIs
 * `tree`
 * `htop`
+* Postman
