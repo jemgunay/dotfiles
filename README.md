@@ -48,6 +48,7 @@ terminal > edit > text > font size 10
 * VSCode
 * Update `git`
 * Install jq: `brew install jq`
+* `brew install bat`
 * Obsidian
 * Docker Desktop
 * Postman
