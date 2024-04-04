@@ -57,7 +57,9 @@ git config --global color.ui auto
   - `brew install bat htop tree jq tldr kcat`
   - `brew install kubectl k9s` (k8s tools)
   - `gcloud` & `aws` (CSP tools)
+  - `psql`/`cqlsh` (DB tools)
   - NPM
   - Docker Desktop/Docker compose
   - Postman
   - Obsidian
+  - ngrok
